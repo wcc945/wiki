@@ -1,0 +1,5 @@
+# IDE / 编辑器配置
+.idea/
+.vscode/
+*.swp
+.DS_Store
